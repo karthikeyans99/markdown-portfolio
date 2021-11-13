@@ -1,1 +1,1 @@
-get more info at [https://github.com/karthikeyans99/github-slideshow]
+get more info at (more info) [https://github.com/karthikeyans99/github-slideshow]
