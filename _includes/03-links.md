@@ -1,1 +1,2 @@
- (more info) [https://github.com/karthikeyans99/github-slideshow]
+[GitHub](http://github.com)
+
